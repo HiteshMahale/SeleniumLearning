@@ -1,0 +1,14 @@
+Class EvenNum
+{
+Public static void main(String arg[])
+{
+System.Out.Println("Even Numbers =");
+for(i=0; i<=100; i++)
+{
+if(i%2=0)
+{
+System.Out.Println(i+ " ");
+}
+}
+}
+}

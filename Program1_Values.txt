@@ -1,0 +1,14 @@
+Class Words {
+Public static void main()
+{
+int i= 10;
+float b = 0.07f;
+char c = 'H'
+String s = "Hitesh"
+
+System.Out.Println("Value of Integer=" +i);
+System.Out.Println("Value of Float=" +b);
+System.Out.Println("Value of Character=" +c);
+System.Out.Println("Value of String=" +s);
+}
+}
